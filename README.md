@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @t7o7n7y
 - 👀 I’m interested in Linux System Administration
 - 🌱 I’m currently learning Linux System Administration
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ttonypetkov@gmail.com
 
 <!---
